@@ -1,0 +1,2 @@
+1.No sequence is incorrect
+2.To correct it you need to replace one of "]" sumbols by ")"
